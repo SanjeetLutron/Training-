@@ -1,2 +1,2 @@
 # Training-
-Traing for interns
+Training on git 
